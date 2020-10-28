@@ -302,6 +302,17 @@
     <build>
         <plugins>
             <plugin>
+    			<groupId>org.apache.tomcat.maven</groupId>
+    			<artifactId>tomcat7-maven-plugin</artifactId>
+    			<version>2.2</version>
+    			<configuration>
+        			<path>/jenkins</path>
+        			<url>http://211.44.250.187:8092/manager/text</url>
+        			<username>admin</username>
+        			<password>!@#sbwpn09</password>
+    			</configuration>
+			</plugin>
+            <plugin>
                 <artifactId>maven-eclipse-plugin</artifactId>
                 <version>2.9</version>
                 <configuration>
