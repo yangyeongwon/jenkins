@@ -6,6 +6,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h2>안녕하세요 젠킨 스</h2>
+<h2>안녕하세요 젠킨스</h2>
 </body>
 </html>
