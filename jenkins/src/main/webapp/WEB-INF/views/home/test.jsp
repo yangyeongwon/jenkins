@@ -6,6 +6,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h2>안녕하세요 젠킨스</h2>
+<h2>젠킨스 테스트2 git푸쉬 후 jenkins 빌드 후 배포성공</h2>
 </body>
 </html>
