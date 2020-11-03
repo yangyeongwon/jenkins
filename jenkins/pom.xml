@@ -307,7 +307,7 @@
     			<version>2.2</version>
     			<configuration>
         			<path>/jenkins</path>
-        			<url>http://211.44.250.187:8092/manager/text</url>
+        			<url>http://localhost:8090/manager/text</url>
         			<username>admin</username>
         			<password>!@#sbwpn09</password>
     			</configuration>
